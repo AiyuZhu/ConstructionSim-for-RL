@@ -5,9 +5,6 @@ from stable_baselines import DQN
 from stable_baselines.common.evaluation import evaluate_policy
 from Construction3DEnv import Construct3DEnvObs
 
-# it is from fang
-# from interface import Construct3DEnvObs
-
 # IMPORT PYGAME AND OPENGL
 import pygame
 from pygame.locals import *
