@@ -10,3 +10,6 @@ python 3.7
 stable-baseline3
 pygame
 pyOpenGL
+
+### Upload new env construction_RL
+you can set up init and target position random or fixed
