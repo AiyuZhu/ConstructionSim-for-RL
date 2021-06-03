@@ -12,7 +12,13 @@ pygame
 pyOpenGL
 
 ### Upload new env construction_RL
-you can set up init and target position random or fixed
+You can set up init and target position random or fixed
+
+### BIM Class
+The BIM Class file contains component and construction site class 
+
+### RL_interface
+The ai_interface.py is the interface between simulation env and stable_baseline 
 
 ### Set up your components
 You can create component use SCO. See SCO.py in BIM class for attr detials. 
