@@ -17,8 +17,9 @@ You can set up init and target position random or fixed
 ### BIM Class
 The BIM Class file contains component and construction site class 
 
-### RL_interface
-The ai_interface.py is the interface between simulation env and stable_baseline 
+### RL interface
+The ai_interface1.py is the interface between simulation env and stable_baseline.
+Run ai_interface1.py to start the learning
 
 ### Set up your components
 You can create component use SCO. See SCO.py in BIM class for attr detials. 
