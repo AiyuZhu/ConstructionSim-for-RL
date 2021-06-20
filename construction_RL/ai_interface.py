@@ -3,8 +3,8 @@ from stable_baselines.common.vec_env import DummyVecEnv
 from stable_baselines.deepq.policies import MlpPolicy, CnnPolicy, LnMlpPolicy
 from stable_baselines import DQN
 from stable_baselines.common.evaluation import evaluate_policy
-from Construction3DEnv_h import Construct3DEnvObs
-from Construction3DEnv_run import Construct3DEnvObsRun
+from Construction3DEnv import Construct3DEnvObs
+
 
 # it is from fang
 # from interface import Construct3DEnvObs
