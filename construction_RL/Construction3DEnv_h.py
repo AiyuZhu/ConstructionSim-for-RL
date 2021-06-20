@@ -5,8 +5,8 @@ from OpenGL.GL import *
 from OpenGL.GLU import *
 from drawSite import draw_site
 
-# IMPORT CLASSES
-import BIMClass.Site.siteOnly_multi_tar as Site
+# IMPORT ENV Here
+import env.setting1.setting1 as Site
 
 #IMPORT GYM
 import gym
